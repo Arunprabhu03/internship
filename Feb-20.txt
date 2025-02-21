@@ -1,0 +1,5 @@
+Work from home today( was sick )
+
+1.SNS
+2.SQS
+3.Route 53
